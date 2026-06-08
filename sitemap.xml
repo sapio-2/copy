@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+    <loc>https://pvpclt.github.io/project/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <priority>1.0</priority>
+  </url>
+
+    <url>  <loc>https://pvpclt.github.io/project/mirror.html</loc>
+    <lastmod>2026-02-06</lastmod>
+    <priority>1.0</priority>
+  </url>    
+
+  <url>    <loc>https://pvpclt.github.io/project/album_en.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/album_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/album_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/album_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/album_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+<url> <loc>https://pvpclt.github.io/project/album_fr.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/album_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/album_en.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/album_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/album_fr.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+<url> <loc>https://pvpclt.github.io/project/album_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/album_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/album_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/album_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/album_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+<url> <loc>https://pvpclt.github.io/project/album_ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/album_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/album_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/album_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/album_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url> <loc>https://pvpclt.github.io/project/fsb_en.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/fsb_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/fsb_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/fsb_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/fsb_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+ <url> <loc>https://pvpclt.github.io/project/fsb_fr.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/fsb_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/fsb_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/fsb_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/fsb_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+ <url> <loc>https://pvpclt.github.io/project/fsb_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/fsb_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/fsb_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/fsb_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/fsb_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+ <url> <loc>https://pvpclt.github.io/project/fsb_ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/fsb_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/fsb_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/fsb_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/fsb_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  <url> <loc>https://pvpclt.github.io/project/Golden_en.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/Golden_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/Golden_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/Golden_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/Golden_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+<url> <loc>https://pvpclt.github.io/project/Golden_fr.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/Golden_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/Golden_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/Golden_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/Golden_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+
+<url> <loc>https://pvpclt.github.io/project/Golden_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/Golden_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/Golden_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/Golden_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/Golden_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+
+<url> <loc>https://pvpclt.github.io/project/Golden_ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/Golden_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/Golden_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/Golden_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/Golden_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+ 
+
+  <url> <loc>https://pvpclt.github.io/project/pivo_en.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/pivo_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/pivo_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/pivo_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/pivo_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+
+<url> <loc>https://pvpclt.github.io/project/pivo_fr.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/pivo_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/pivo_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/pivo_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/pivo_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+<url> <loc>https://pvpclt.github.io/project/pivo_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/pivo_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/pivo_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/pivo_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/pivo_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+<url> <loc>https://pvpclt.github.io/project/pivo_ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/pivo_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/pivo_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/pivo_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/pivo_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+
+ 
+
+  <url> <loc>https://pvpclt.github.io/project/play_en.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/play_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/play_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/play_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/play_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+
+<url> <loc>https://pvpclt.github.io/project/play_fr.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/play_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/play_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/play_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/play_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+<url> <loc>https://pvpclt.github.io/project/play_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/play_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/play_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/play_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/play_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+
+<url> <loc>https://pvpclt.github.io/project/play_ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/play_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/play_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/play_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/play_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+
+  <url> <loc>https://pvpclt.github.io/project/values_en.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/values_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/values_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/values_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/values_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+<url> <loc>https://pvpclt.github.io/project/values_fr.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/values_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/values_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/values_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/values_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+
+  <url> <loc>https://pvpclt.github.io/project/values_ua.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/values_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/values_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/values_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/values_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+  
+<url> <loc>https://pvpclt.github.io/project/values_ru.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/values_ru.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/values_fr.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/values_ua.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/values_en.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.9</priority>
+  </url>
+
+  
+  <url> <loc>https://pvpclt.github.io/project/en_author.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/ru_author.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/fr_author.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/ua_author.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/en_author.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+ <url> <loc>https://pvpclt.github.io/project/fr_author.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/ru_author.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/fr_author.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/ua_author.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/en_author.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+ <url> <loc>https://pvpclt.github.io/project/ua_author.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/ru_author.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/fr_author.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/ua_author.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/en_author.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+ <url> <loc>https://pvpclt.github.io/project/ru_author.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/ru_author.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/fr_author.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/ua_author.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/en_author.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+
+  <url>  <loc>https://pvpclt.github.io/project/en_funds.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/ru_funds.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/fr_funds.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/ua_funds.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/en_funds.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+<url>  <loc>https://pvpclt.github.io/project/fr_funds.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/ru_funds.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/fr_funds.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/ua_funds.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/en_funds.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+<url>  <loc>https://pvpclt.github.io/project/ua_funds.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/ru_funds.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/fr_funds.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/ua_funds.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/en_funds.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+<url>  <loc>https://pvpclt.github.io/project/ru_funds.html</loc>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://pvpclt.github.io/project/ru_funds.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://pvpclt.github.io/project/fr_funds.html"/>
+    <xhtml:link rel="alternate" hreflang="uk" href="https://pvpclt.github.io/project/ua_funds.html"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://pvpclt.github.io/project/en_funds.html"/>
+    <lastmod>2026-02-03</lastmod>
+    <priority>0.6</priority>
+  </url>
+  
+
+
+</urlset>

@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this term or materials from this encyclopedia, please cite it as follows:"
+authors:
+  - family-names: "Shcheglova"
+    given-names: "Olga"
+    alias: "Boris Bidyaga"
+title: "Encyclopedia of Orthodox Military Putinism"
+version: 1.0.0
+date-released: 2026-02-06
+url: "https://pvpclt.github.io/project"
+keywords:
+  - "Orthodox Military Putinism"
+  - "Political Philosophy"
+  - "Totalitarianism"
+  - "Queer Philosophy"
+identifiers:
+  - type: isbn
+    value: "978-5-9903439-3-1"
+    description: "Russian Edition"
+  - type: isbn
+    value: "978-5-9903439-4-8"
+    description: "English Edition"
+  - type: isbn
+    value: "978-5-9903439-5-5"
+    description: "French Edition"
+  - type: isbn
+    value: "978-5-9903439-6-2"
+    description: "Ukrainian Edition"
