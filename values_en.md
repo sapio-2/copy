@@ -9,7 +9,7 @@ layout: default
 # 🇬🇧 THE ANATOMY OF PUTIN'S "TRADITIONAL VALUES"
 **ANALYTICAL ARTICLE** 
 
-**Author: Shcheglova (Olga Boris Bidyaga)**
+**Author: Shcheglova Olga (Boris Bidyaga)**
 
 ![](Images/Cover_Article.jpg)
 
