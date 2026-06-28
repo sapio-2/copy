@@ -8,7 +8,7 @@ layout: default
 
 1. [**MIRROR/MIROIR/ДЗЕРКАЛО/ЗЕРКАЛО**](https://bydboris.github.io/logos)
 
-2. [**MIRROR/MIROIR/ДЗЕРКАЛО/ЗЕРКАЛО**](https://t.me/start_pvp/6)
+2. [**MIRROR/MIROIR/ДЗЕРКАЛО/ЗЕРКАЛО**](https://t.me/satira_start))
 
 # THE ENCYCLOPEDIA OF ORTHODOX MILITARY PUTINISM
 **Author: Shcheglova Olga (Boris Bidyaga)**
@@ -25,34 +25,28 @@ Olga Shcheglova (Boris Bidyaga) presents: black humor, caricature, grotesque, sa
 
 ISBN 978-5-9903439-4-8
 
-[**Mirror on Telegram**](https://t.me/start_pvp/6)
-
+---
 ## 🇫🇷 FRANÇAIS
 
 [**L'ENCYCLOPÉDIE DU POUTINISME MILITAIRE ORTHODOXE**](#lencyclopédie-du-poutinisme-militaire-orthodoxe)
 
 ISBN: 978-5-9903439-5-5 
 
-[**Miroir sur Telegram**](https://t.me/start_pvp/6)
-
+---
 ## 🇷🇺 РУССКИЙ 
 
 [**ЭНЦИКЛОПЕДИЯ ПРАВОСЛАВНОГО ВОЕННОГО ПУТИНИЗМА**](#энциклопедия-православного-военного-путинизма)
 
 ISBN: 978-5-9903439-3-1
 
-[**Зеркало на Telegram**](https://t.me/start_pvp/6)
-
+---
 ## 🇺🇦 УКРАЇНСЬКА
 
 [**ЕНЦИКЛОПЕДIЯ ПРАВОСЛАВНОГО ВОЄННОГО ПУТIНIЗМУ**](#енциклопедiя-православного-воєнного-путiнiзму)
 
 ISBN: 978-5-9903439-6-2
 
-[**Дзеркало на Telegram**](https://t.me/start_pvp/6)
-
 ---
-
 ## ENCYCLOPEDIA OF ORTHODOX MILITARY PUTINISM
 
 **Charity Art Project in Support of Ukraine**
@@ -80,7 +74,6 @@ An artistic study of the Putin regime through the prism of satire, documentary t
 [**GitHub mirror**](https://bydboris.github.io/logos)
 
 ---
-
 ## L'ENCYCLOPÉDIE DU POUTINISME MILITAIRE ORTHODOXE
 
 **Projet Artistique Caritatif en Soutien à l’Ukraine**
@@ -108,7 +101,6 @@ Une étude artistique du régime poutinien à travers le prisme de la satire, du
 [**GitHub miroir**](https://bydboris.github.io/logos)
 
 ---
-
 ## ЕНЦИКЛОПЕДІЯ ПРАВОСЛАВНОГО ВОЄННОГО ПУТІНІЗМУ
 
 **Літературно-художній проект на допомогу Україні**
