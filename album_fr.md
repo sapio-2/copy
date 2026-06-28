@@ -2185,6 +2185,14 @@ Vous êtes ma Muse. Celle qui a éveillé mon élan créateur par le désespoir 
 
 Sans votre refus cynique de m'accorder l'asile, qui m'a condamné à vivre dans une tente glaciale, cette satire n'aurait peut-être pas atteint une telle acuité.
 
+Si vous m'avez fait don de l'inspiration, vous avez offert à mes persécuteurs une opportunité facile pour mon assassinat. Votre refus d'asile illégal, d'un trait de plume indifférent, s'est transformé en un couteau entre les mains des exécutants du FSB. 
+
+Vos paragraphes et circulaires si soignés se sont si élégamment matérialisés dans une forêt profonde — sous la forme du craquement de mis côtes qui se brisent et du sifflement de l'air dans un poumon perforé. Merci de m'avoir aidée à ressentir le prix de votre « humanisme » dans ma propre chair — en étouffant de sang à cause d'un pneumothorax sur un lit d'hôpital.
+
+Vous m'avez forcée à écrire non pas avec de l'encre, mais avec de l'adrénaline et de la douleur.
+
+Mon dossier numéro 858369 deviendra une tache indélébile et honteuse sur votre réputation du pays « le plus démocratique » au monde.
+
 © Olga Shcheglova, 2025-2026
 
 [**Liste des fondations caritatives en soutien à l’Ukraine**](fr_funds)
